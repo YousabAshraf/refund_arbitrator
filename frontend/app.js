@@ -1,5 +1,6 @@
 const API_BASE = "http://localhost:8000";
 
+
 const form = document.getElementById("dispute-form");
 const resultSection = document.getElementById("result");
 const placeholder = document.getElementById("placeholder");
