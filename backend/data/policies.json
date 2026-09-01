@@ -1,0 +1,37 @@
+[
+  {
+    "id": "POL-01",
+    "category": "general",
+    "text": "Standard merchandise may be returned within 30 days of the delivery date for a full refund, provided the item is unused and in its original packaging."
+  },
+  {
+    "id": "POL-02",
+    "category": "electronics",
+    "text": "Electronics, including TVs, headphones, and audio equipment, carry a 15-day return window from delivery. Items must be free of physical damage and include all original accessories."
+  },
+  {
+    "id": "POL-03",
+    "category": "clothing",
+    "text": "Clothing and footwear can be returned within 45 days of delivery as long as tags remain attached and the item shows no signs of wear."
+  },
+  {
+    "id": "POL-04",
+    "category": "appliances",
+    "text": "Home appliances are covered by a 30-day return window. Appliances that arrive defective or stop functioning within that period qualify for a full refund or replacement regardless of usage."
+  },
+  {
+    "id": "POL-05",
+    "category": "final_sale",
+    "text": "Items marked as final sale, including select designer and clearance goods, are not eligible for return or refund under any circumstances."
+  },
+  {
+    "id": "POL-06",
+    "category": "defective",
+    "text": "Any item that arrives damaged or defective may be returned within 90 days of delivery for a full refund or replacement, independent of the standard category return window."
+  },
+  {
+    "id": "POL-07",
+    "category": "high_value",
+    "text": "Refund claims exceeding 500 dollars, or accounts with two or more prior disputes, must be reviewed by a member of the human support team before a refund is issued."
+  }
+]
